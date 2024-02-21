@@ -8,7 +8,7 @@ A Digital Innovation One é uma plataforma de ensino online que oferece cursos d
 
 ## Objetivo deste Repositório
 
-O objetivo principal deste repositório é compartilhar os desafios que realizei durante os cursos da DIO. Cada diretório neste repositório corresponde a um desafio específico, onde você encontrará o código fonte e possíveis soluções.
+O objetivo principal deste repositório é compartilhar os desafios de lógica que realizei durante os cursos da DIO. Cada diretório neste repositório corresponde a um desafio específico, onde você encontrará o código fonte e possíveis soluções.
 
 ## Como Navegar
 
